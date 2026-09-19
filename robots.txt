@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Review prototype: every HTML page contains noindex, nofollow.
